@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - [App Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            color: #444;
+        }
+        h2 {
+            color: #666;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for [App Name]</h1>
+        <p><strong>Effective Date:</strong> [Insert Date]</p>
+        
+        <h2>1. Information We Collect</h2>
+        <p>We do not collect any personal information that directly identifies you. However, the App may collect the following non-personal information for the purpose of enhancing your experience and improving our service:</p>
+        <ul>
+            <li>Listening history and preferences</li>
+            <li>Device type and operating system version</li>
+            <li>App usage statistics</li>
+        </ul>
+        <p>This information is collected anonymously and is used solely for improving the user experience and app functionality. We do not share this information with third parties.</p>
+        
+        <h2>2. Third-Party Services</h2>
+        <p>Our App may use third-party services for analytics and streaming, such as:</p>
+        <ul>
+            <li>Google Analytics for anonymous usage statistics</li>
+            <li>Streaming servers for providing radio content</li>
+        </ul>
+        <p>These third parties may collect information necessary to provide their services, but they do not collect personal information that directly identifies you.</p>
+        
+        <h2>3. Permissions Required</h2>
+        <p>The App may request the following permissions to provide its functionalities:</p>
+        <ul>
+            <li>Internet access – for streaming radio stations</li>
+            <li>Storage access – to cache streaming data for better performance</li>
+        </ul>
+        <p>These permissions are solely used to enhance the user experience and provide uninterrupted streaming.</p>
+        
+        <h2>4. Data Security</h2>
+        <p>We take reasonable measures to protect the information collected through the App. However, no method of electronic storage is completely secure, and we cannot guarantee the absolute security of your data.</p>
+        
+        <h2>5. Children's Privacy</h2>
+        <p>Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will delete the information.</p>
+        
+        <h2>6. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy within the App. You are advised to review this Privacy Policy periodically for any updates.</p>
+        
+        <h2>7. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+        <p><strong>Email:</strong> [Your Email Address]</p>
+        
+        <h2>8. Consent</h2>
+        <p>By using the App, you consent to the terms of this Privacy Policy.</p>
+        
+        <div class="footer">
+            &copy; [Year] [App Name]. All rights reserved.
+        </div>
+    </div>
+</body>
+</html>
